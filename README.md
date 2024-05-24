@@ -1,13 +1,6 @@
 # US-Debt-Tracker-Project
 
-**The project focuses on analyzing the US public and governmental debt, then answer some specific questions.**
-
-## Scenario
-
-"I was hired by a small debt agency in Washington DC that specializes in analyzing and forecasting public and private debt.
-The US Government has requested an analysis of their public and governmental debt to answer some specific questions below.
-
-Using the Questions and Data Dictionary Provided, answer the questions using charts/graphs and narratives."
+**The project focuses on analyzing the US public and governmental debt.**
 
 |Data Dictionary|Definition|
 |----------|----------|
@@ -15,7 +8,26 @@ Using the Questions and Data Dictionary Provided, answer the questions using cha
 |Intragovernmental Holdings|This is the portion of the US public debt that is held by other US government agencies.|
 |Total Public Debt Outstanding|This is the sum of the debt held by the public and intragovernmental holdings.|
 
-## Questions
+## Data Sources
+
+US Debt Tracker: The primary dataset used for this analysis is the "DebtPenny_19930401_20240509" file, containing detailed information about debts held by the public and intragovernmental holdings.
+
+## Tools
+
+Excel
+
+## Data Cleaning/Preparation
+
+In the initial data preparation phase, we performed the following tasks:
+
+1. Downloading Data and inspection.
+2. Handling missing values.
+3. Data cleaning and formatting.
+
+
+## Exploratory Data Analysis
+
+EDA involved exploring the US Debt Tracker data to answer key questions, such as:
 
 1. What was the Yearly Debt Percentage Increase for each year compared to the previous year?
 2. Which months historically have seen the highest/lowest increases in Total debt?
@@ -27,8 +39,3 @@ Using the Questions and Data Dictionary Provided, answer the questions using cha
 
 
 
-
-
-
-
-![image](https://github.com/stemla/US-Debt-Tracker-Project/assets/170471393/cf428fd9-3ccc-4f73-b06a-ef9aea88fbb4)
