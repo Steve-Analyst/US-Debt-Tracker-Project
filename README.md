@@ -85,37 +85,5 @@ There is a steady increase in the projected Debt Held by the Public. It's challe
 
 # Conclusion
 
-I have attached the Summarized data (Excel Sheet) with the final product where you will be able to access the process used to arrive to the above results. You will find the data useful as it also shows the type of Pivot Table used. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+I have attached the Summarized data (Excel Sheet) with the final product where you will be able to access the process used to arrive to the above results. You will find the data useful as it also shows the type of PivotTables used. 
 
