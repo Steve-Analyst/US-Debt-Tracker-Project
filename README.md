@@ -10,7 +10,7 @@
 
 ## Data Sources
 
-US Debt Tracker: The primary dataset used for this analysis is the "DebtPenny_19930401_20240509" file, containing detailed information about debts held by the public and intragovernmental holdings.
+US Debt Tracker: The primary dataset used for this analysis is the "DebtPenny_19930401_20240509" file, containing detailed information about debts held by the public and intragovernmental holdings. You can access the data from [fiscaldata.treasury](https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/debt-to-the-penny)
 
 ## Tools
 
